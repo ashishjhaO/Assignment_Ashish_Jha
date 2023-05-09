@@ -1,3 +1,9 @@
+//                         Ashish Narayan Jha
+//                         ashish.n.jha007@gmail.com
+//                         9560633308
+
+
+
 function solution(D) {
   const days = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
   const result = {};
